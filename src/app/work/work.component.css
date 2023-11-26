@@ -1,0 +1,49 @@
+.svg-hover{
+    transition: transform 0.4s ease;
+}
+.svg-hover:hover{
+    transform: scale(1.08);
+    transition-duration: 400ms;
+    cursor: pointer;
+}
+.svg-tx-hover:hover{
+    cursor: pointer;
+}
+
+.pink-standard{
+    color: #FD0D64;   
+}
+.main-container{
+    width: 100%;
+    min-height: 90vh;
+}
+
+.bio-left{
+    width: 60%;
+}
+
+.bio-right img {
+    width: 100%; 
+    height: auto; 
+    display: block;
+    margin: 0; 
+}
+
+.card{
+    font-family: 'Josefin Sans', sans-serif;
+    transition: transform 0.6s ease;
+
+}
+
+.card:hover{
+    transform: scale(1.02);
+    transition-duration: 400ms;
+    cursor: pointer;}
+
+
+.Card-container{
+   min-height: 80vh;
+   width: 80vw;
+   align-items: center;
+   justify-content: space-around;
+}
