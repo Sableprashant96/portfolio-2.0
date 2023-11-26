@@ -43,7 +43,7 @@
 
 .Card-container{
    min-height: 80vh;
-   width: 80vw;
+   width: 90vw;
    align-items: center;
    justify-content: space-around;
 }
