@@ -1,0 +1,21 @@
+.footer{
+    min-height: 130px;
+    
+}
+
+.icon{
+    transition: transform 0.4s ease;
+}
+.icon:hover{
+    transform: scale(1.08);
+    transition-duration: 400ms;
+    cursor: pointer;
+}
+
+.phone{
+
+}
+
+.left{
+    color: ;
+}
