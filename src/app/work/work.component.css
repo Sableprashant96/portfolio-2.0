@@ -36,8 +36,8 @@
 }
 
 .card:hover{
-    transform: scale(1.02);
-    transition-duration: 400ms;
+    /* transform: scale(1.02);
+    transition-duration: 400ms; */
     cursor: pointer;}
 
 
