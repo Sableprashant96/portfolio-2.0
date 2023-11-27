@@ -5,9 +5,7 @@
     color: #FD0D64;   
 }
 
-.hover-text{
 
-}
 .hover-text:hover{
     color: #FD0D64;
     transition-duration: 300ms;
